@@ -1,12 +1,4 @@
 '''
-2019 NeurIPS Submission
-Title: Time-series Generative Adversarial Networks
-Authors: Jinsung Yoon, Daniel Jarrett, Mihaela van der Schaar
-
-Last Updated Date: May 29th 2019
-Code Author: Jinsung Yoon (jsyoon0823@gmail.com)
-
------------------------------
 
 Data loading
 (1) Load Google dataset
